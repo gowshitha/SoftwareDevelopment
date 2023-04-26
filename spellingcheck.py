@@ -19,7 +19,7 @@ while True:
     if text.lower() == "quit":
         break
     if len(text) < 5:
-        print("Input must be at least 5 characters long")
+        print("Input must be at least 5 characters long.")
     else:
         print("Checking your text...")
         corrected_text = check_text(text)
