@@ -1,4 +1,5 @@
-#WriteRight AI – AI-powered writing assistant that helps you “write right.”
+#WriteRight AI – AI-powered writing assistant that helps you “write right.” 
+AI-powered writing assistant for grammar correction, paraphrasing, and summarization—helping you write smarter, clearer, and faster.
 
 
 The proposed project is to develop a writing tool that incorporates the functionalities of both Grammarly and QuillBot. The new tool will be designed to help writers, students, and professionals to improve the quality of their written content. The tool will use AI and machine learning algorithms to identify and correct grammatical errors, sentence structure, and enhance the overall readability of the text.
